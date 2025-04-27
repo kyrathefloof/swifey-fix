@@ -2,7 +2,7 @@
 Fixing a twitter slop advertisement site.
 
 ## What is swifey?
-"Swifey" is this [Vercel.app](https://vercel.com/) "website" that claims to "analyze your tweets" to find your soulmate. Of course this is meant to be a meaningless app, what I don't like is how it is advertising a dating app and watermarking everything to try to get users to download their dating app. Long story short, don't use dating apps. Especially not dating apps who lie to you about what they're doing. Not cool.
+["Swifey"](https://swifey.vercel.app/) is this [Vercel.app](https://vercel.com/) "website" that claims to "analyze your tweets" to find your soulmate. Of course this is meant to be a meaningless app, what I don't like is how it is advertising a dating app and watermarking everything to try to get users to download their dating app. Long story short, don't use dating apps. Especially not dating apps who lie to you about what they're doing. Not cool.
 
 ## How do I implement the fix?
 There are a few ways, the easiest of which is to use F12 and copy and paste the latest fix file.
